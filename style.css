@@ -259,16 +259,6 @@ a{
   right: 5;
   margin: auto;
 }
-.container2 {
-  height: 50px;
-  width: 50px;
-  position: absolute;
-  top: 450;
-  left: 5;
-  right: 0;
-  margin: auto;
-}
-
 .droplet {
   border-radius: 1px 90%;
   border-style: solid;
